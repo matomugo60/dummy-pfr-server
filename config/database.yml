@@ -1,0 +1,5 @@
+development:
+  adapter: sqlite3
+  database: db/petfinder_development.sqlite3
+  pool: 5
+  timeout: 5000
